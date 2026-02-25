@@ -33,4 +33,4 @@ To run this project, you will need:
 
 Usage:
 1. Place `insurance.csv` in the root directory.
-2. Run `python insurance_analysis.py`.
+2. Run `insurance.ipynb`.
